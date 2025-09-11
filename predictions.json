@@ -1,0 +1,2674 @@
+[
+  {
+    "nickname": "삼각형",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "KT",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "멀면 벙커링",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "믿음사랑평화",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "BFX",
+      "R1 LB": "KT",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "본좌",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "DK",
+      "R4 LF": "DK",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "VinHaDaddy",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "마음속의빛",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "루체시",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "DK",
+      "R2 M1": "GEN",
+      "R2 M2": "KT",
+      "R1 LB": "T1",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "KT",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "nn년차학생",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "유나결",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "KT",
+      "R1 LB": "BFX",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "Winter_SkaDi",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "나른한날",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "DK",
+      "R2 M2": "GEN",
+      "R1 LB": "T1",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "햅피",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "정답은해체입니다",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "맛동산꿈동산",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "정글러",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "코우사카 호노카",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "귀파기장인",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "Dumpty",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "HLE",
+      "Grand Final": "HLE"
+    }
+  },
+  {
+    "nickname": "매일",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "KT",
+      "Grand Final": "KT"
+    }
+  },
+  {
+    "nickname": "Secretist",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "KT",
+      "R1 LB": "DK",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "김삼관",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "KT",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "고민시",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "네크로노미콘",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "금지약물복용",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "잉차잉차",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "어제내린비",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "KT",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "아이유_밤편지",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "타르튀프",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "kimi",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "당근케익",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "KT",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "젤나가",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "T1",
+      "R2 M2": "KT",
+      "R1 LB": "BFX",
+      "R2 LB": "HLE",
+      "R3 UB": "T1",
+      "R3 LB": "GEN",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "미카엘",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "KT",
+      "Grand Final": "KT"
+    }
+  },
+  {
+    "nickname": "카루오스",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "DK",
+      "R4 LF": "DK",
+      "Grand Final": "DK"
+    }
+  },
+  {
+    "nickname": "묵리이장",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "동원탐켄치",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "오타니",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "DK",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "DK",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "튀김우동",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "DK",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "T1",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "DK",
+      "R4 LF": "DK",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "티파니",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "KT",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "HLE",
+      "R3 UB": "KT",
+      "R3 LB": "GEN",
+      "R4 LF": "GEN",
+      "Grand Final": "KT"
+    }
+  },
+  {
+    "nickname": "세인트",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "프로하스카",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "서현고객님",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "Tristana",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "DK",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "T1",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "DK",
+      "R4 LF": "DK",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "끝판대장",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "KT",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "RENTON",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "DK",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "T1",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "DK",
+      "R4 LF": "DK",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "Vera",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "깔치",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "BFX",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "툼레이더",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "스바루",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "카카오톡",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "FIresoul",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "Extremism",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "전복버터구이",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "스콜스",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "jakunoba",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "감전주의",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "KT",
+      "Grand Final": "KT"
+    }
+  },
+  {
+    "nickname": "양웬리",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "우스타",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "BFX",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "nekorean",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "Chrollo Lucilfer",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "흘레바람",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "T1",
+      "R2 M2": "HLE",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "GEN",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "panidy",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "HLE",
+      "R3 LB": "T1",
+      "R4 LF": "GEN",
+      "Grand Final": "HLE"
+    }
+  },
+  {
+    "nickname": "다시마두장",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "권나연",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "HighlandPark",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "Pygmalion",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "문문문무",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "BFX",
+      "R3 UB": "T1",
+      "R3 LB": "BFX",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "하얀소파",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "papaGom",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "프란츠베켄바우어",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "메가트롤",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "서아아빠",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "따닥",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "221B",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "SHYiiii",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "흡혈",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "마작에진심인남자",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "도달자",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "KT",
+      "Grand Final": "KT"
+    }
+  },
+  {
+    "nickname": "Nellys",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "Z",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "기다림...그리",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "KT",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "레반",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "강동원",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "DK",
+      "R2 M1": "GEN",
+      "R2 M2": "KT",
+      "R1 LB": "BFX",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "KT",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "Twice정연",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "BFX",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "79",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "YongSeok CHOI",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "spatial",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "십자포화",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "DK",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "cald",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "순간",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "업앤다운타운",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "alleh",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "DK",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "T1",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "KT",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "호잉스",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "KT",
+      "R1 LB": "BFX",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "erai",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "BFX",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "InSomNia",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "추대왕",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "여름의끝에피는꽃",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "아싸리리이",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "거북",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "술통",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "BFX",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "Musiq",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "MaGatzz",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "히용",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "오하영",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "일반회원",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "T1",
+      "R2 M2": "BFX",
+      "R1 LB": "KT",
+      "R2 LB": "HLE",
+      "R3 UB": "T1",
+      "R3 LB": "GEN",
+      "R4 LF": "BFX",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "Klopp",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "카케티르",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "T1",
+      "R2 M2": "HLE",
+      "R1 LB": "BFX",
+      "R2 LB": "BFX",
+      "R3 UB": "T1",
+      "R3 LB": "GEN",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "Jane",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "KT",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "열혈둥이",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "KT",
+      "R1 LB": "BFX",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "와이",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "DK",
+      "R2 M1": "GEN",
+      "R2 M2": "KT",
+      "R1 LB": "T1",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "KT",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "이시카와미오",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "DK",
+      "R2 M1": "DK",
+      "R2 M2": "HLE",
+      "R1 LB": "BFX",
+      "R2 LB": "BFX",
+      "R3 UB": "DK",
+      "R3 LB": "GEN",
+      "R4 LF": "GEN",
+      "Grand Final": "DK"
+    }
+  },
+  {
+    "nickname": "부처",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "마이스타일",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "attraction",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "우왕크",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "대상팔",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "DK",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "사랑",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "무지",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "DK",
+      "R1 LB": "T1",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "막스베르스타펜",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "로즈엘",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "Broccoli",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "KT",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "쪼아",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "KT",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "알콜부이",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "호루라기장인",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "BROOKS",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "노암",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "DK",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "짜부리",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "개가좋아요",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "회비서",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "KT",
+      "R1 LB": "BFX",
+      "R2 LB": "T1",
+      "R3 UB": "KT",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "Far Niente",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "하만",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "Liberalist",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "KT",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "팔라디노",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "행복한나를위해",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "DK",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "T1",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "바이에른뮌헨",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "KT",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "HLE",
+      "R3 UB": "T1",
+      "R3 LB": "GEN",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "CrazY_BoY",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "와우홍",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "코라이돈",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "Psyki",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "KT",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "10000s",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "포코포코",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "KT",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "crema",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "T1",
+      "R2 M2": "HLE",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "GEN",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "이미등록된닉네임",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "22",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "비상하는로그",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "락샤사",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "몽키매직",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "그린티미스트",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "DK",
+      "R2 M1": "GEN",
+      "R2 M2": "KT",
+      "R1 LB": "T1",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "칼리토",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "아니",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "그린님",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "HLE",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "kama",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "덱스터모건",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "T1",
+      "R3 LB": "KT",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  },
+  {
+    "nickname": "OcularImplants",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "리버풀롯데SFG",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "KT",
+      "R2 LB": "BFX",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "김치와라면",
+    "prediction": {
+      "R1 M1": "DK",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "DK",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "T1",
+      "R2 LB": "DK",
+      "R3 UB": "GEN",
+      "R3 LB": "DK",
+      "R4 LF": "DK",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "Jurgen Klopp",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "KT",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "HLE",
+      "R3 UB": "KT",
+      "R3 LB": "GEN",
+      "R4 LF": "GEN",
+      "Grand Final": "KT"
+    }
+  },
+  {
+    "nickname": "지구 최후의 밤",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "HLE",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "now",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "KT",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "리니시아",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "KT",
+      "R1 LB": "DK",
+      "R2 LB": "T1",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "여기저기외기러기",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "DownTeamisDown",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "KT",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "달랭이",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "T1",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "HLE",
+      "Grand Final": "HLE"
+    }
+  },
+  {
+    "nickname": "데몬헌터",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "눈이내리면",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "HLE",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "비맞은 비익조",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "BFX",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "유유할때유",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "BFX",
+      "GEN이 고른 팀": "BFX",
+      "R2 M1": "GEN",
+      "R2 M2": "HLE",
+      "R1 LB": "KT",
+      "R2 LB": "KT",
+      "R3 UB": "GEN",
+      "R3 LB": "T1",
+      "R4 LF": "T1",
+      "Grand Final": "GEN"
+    }
+  },
+  {
+    "nickname": "숲",
+    "prediction": {
+      "R1 M1": "T1",
+      "R1 M2": "KT",
+      "GEN이 고른 팀": "KT",
+      "R2 M1": "GEN",
+      "R2 M2": "T1",
+      "R1 LB": "DK",
+      "R2 LB": "DK",
+      "R3 UB": "T1",
+      "R3 LB": "HLE",
+      "R4 LF": "GEN",
+      "Grand Final": "T1"
+    }
+  }
+]

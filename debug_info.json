@@ -1,0 +1,1022 @@
+[
+  {
+    "user_number": 1,
+    "nickname": "삼각형",
+    "line_number": 1,
+    "status": "success"
+  },
+  {
+    "user_number": 2,
+    "nickname": "멀면 벙커링",
+    "line_number": 18,
+    "status": "success"
+  },
+  {
+    "user_number": 3,
+    "nickname": "1등급 저지방 우유",
+    "line_number": 37,
+    "status": "failed - 승부예측 패턴이 전혀 없음"
+  },
+  {
+    "user_number": 4,
+    "nickname": "믿음사랑평화",
+    "line_number": 45,
+    "status": "success"
+  },
+  {
+    "user_number": 5,
+    "nickname": "본좌",
+    "line_number": 64,
+    "status": "success"
+  },
+  {
+    "user_number": 6,
+    "nickname": "VinHaDaddy",
+    "line_number": 83,
+    "status": "success"
+  },
+  {
+    "user_number": 7,
+    "nickname": "마음속의빛",
+    "line_number": 100,
+    "status": "success"
+  },
+  {
+    "user_number": 8,
+    "nickname": "루체시",
+    "line_number": 117,
+    "status": "success"
+  },
+  {
+    "user_number": 9,
+    "nickname": "nn년차학생",
+    "line_number": 135,
+    "status": "success"
+  },
+  {
+    "user_number": 10,
+    "nickname": "유나결",
+    "line_number": 152,
+    "status": "success"
+  },
+  {
+    "user_number": 11,
+    "nickname": "Winter_SkaDi",
+    "line_number": 171,
+    "status": "success"
+  },
+  {
+    "user_number": 12,
+    "nickname": "나른한날",
+    "line_number": 191,
+    "status": "success"
+  },
+  {
+    "user_number": 13,
+    "nickname": "햅피",
+    "line_number": 208,
+    "status": "success"
+  },
+  {
+    "user_number": 14,
+    "nickname": "정답은해체입니다",
+    "line_number": 225,
+    "status": "success"
+  },
+  {
+    "user_number": 15,
+    "nickname": "맛동산꿈동산",
+    "line_number": 242,
+    "status": "success"
+  },
+  {
+    "user_number": 16,
+    "nickname": "정글러",
+    "line_number": 259,
+    "status": "success"
+  },
+  {
+    "user_number": 17,
+    "nickname": "코우사카 호노카",
+    "line_number": 276,
+    "status": "success"
+  },
+  {
+    "user_number": 18,
+    "nickname": "귀파기장인",
+    "line_number": 293,
+    "status": "success"
+  },
+  {
+    "user_number": 19,
+    "nickname": "Dumpty",
+    "line_number": 310,
+    "status": "success"
+  },
+  {
+    "user_number": 20,
+    "nickname": "매일",
+    "line_number": 327,
+    "status": "success"
+  },
+  {
+    "user_number": 21,
+    "nickname": "Secretist",
+    "line_number": 346,
+    "status": "success"
+  },
+  {
+    "user_number": 22,
+    "nickname": "김삼관",
+    "line_number": 363,
+    "status": "success"
+  },
+  {
+    "user_number": 23,
+    "nickname": "고민시",
+    "line_number": 382,
+    "status": "success"
+  },
+  {
+    "user_number": 24,
+    "nickname": "네크로노미콘",
+    "line_number": 399,
+    "status": "success"
+  },
+  {
+    "user_number": 25,
+    "nickname": "금지약물복용",
+    "line_number": 416,
+    "status": "success"
+  },
+  {
+    "user_number": 26,
+    "nickname": "잉차잉차",
+    "line_number": 433,
+    "status": "success"
+  },
+  {
+    "user_number": 27,
+    "nickname": "어제내린비",
+    "line_number": 450,
+    "status": "success"
+  },
+  {
+    "user_number": 28,
+    "nickname": "아이유_밤편지",
+    "line_number": 467,
+    "status": "success"
+  },
+  {
+    "user_number": 29,
+    "nickname": "타르튀프",
+    "line_number": 484,
+    "status": "success"
+  },
+  {
+    "user_number": 30,
+    "nickname": "kimi",
+    "line_number": 501,
+    "status": "success"
+  },
+  {
+    "user_number": 31,
+    "nickname": "당근케익",
+    "line_number": 518,
+    "status": "success"
+  },
+  {
+    "user_number": 32,
+    "nickname": "젤나가",
+    "line_number": 537,
+    "status": "success"
+  },
+  {
+    "user_number": 33,
+    "nickname": "미카엘",
+    "line_number": 554,
+    "status": "success"
+  },
+  {
+    "user_number": 34,
+    "nickname": "카루오스",
+    "line_number": 571,
+    "status": "success"
+  },
+  {
+    "user_number": 35,
+    "nickname": "묵리이장",
+    "line_number": 588,
+    "status": "success"
+  },
+  {
+    "user_number": 36,
+    "nickname": "동원탐켄치",
+    "line_number": 607,
+    "status": "success"
+  },
+  {
+    "user_number": 37,
+    "nickname": "오타니",
+    "line_number": 624,
+    "status": "success"
+  },
+  {
+    "user_number": 38,
+    "nickname": "튀김우동",
+    "line_number": 641,
+    "status": "success"
+  },
+  {
+    "user_number": 39,
+    "nickname": "티파니",
+    "line_number": 660,
+    "status": "success"
+  },
+  {
+    "user_number": 40,
+    "nickname": "세인트",
+    "line_number": 677,
+    "status": "success"
+  },
+  {
+    "user_number": 41,
+    "nickname": "프로하스카",
+    "line_number": 694,
+    "status": "success"
+  },
+  {
+    "user_number": 42,
+    "nickname": "서현고객님",
+    "line_number": 711,
+    "status": "success"
+  },
+  {
+    "user_number": 43,
+    "nickname": "Tristana",
+    "line_number": 728,
+    "status": "success"
+  },
+  {
+    "user_number": 44,
+    "nickname": "달팽이의 하루",
+    "line_number": 745,
+    "status": "failed - 승부예측 패턴이 전혀 없음"
+  },
+  {
+    "user_number": 45,
+    "nickname": "끝판대장",
+    "line_number": 752,
+    "status": "success"
+  },
+  {
+    "user_number": 46,
+    "nickname": "RENTON",
+    "line_number": 769,
+    "status": "success"
+  },
+  {
+    "user_number": 47,
+    "nickname": "Vera",
+    "line_number": 786,
+    "status": "success"
+  },
+  {
+    "user_number": 48,
+    "nickname": "Vera",
+    "line_number": 803,
+    "status": "failed - 승부예측 패턴이 전혀 없음"
+  },
+  {
+    "user_number": 49,
+    "nickname": "깔치",
+    "line_number": 811,
+    "status": "success"
+  },
+  {
+    "user_number": 50,
+    "nickname": "툼레이더",
+    "line_number": 828,
+    "status": "success"
+  },
+  {
+    "user_number": 51,
+    "nickname": "스바루",
+    "line_number": 847,
+    "status": "success"
+  },
+  {
+    "user_number": 52,
+    "nickname": "카카오톡",
+    "line_number": 864,
+    "status": "success"
+  },
+  {
+    "user_number": 53,
+    "nickname": "FIresoul",
+    "line_number": 881,
+    "status": "success"
+  },
+  {
+    "user_number": 54,
+    "nickname": "Extremism",
+    "line_number": 898,
+    "status": "success"
+  },
+  {
+    "user_number": 55,
+    "nickname": "전복버터구이",
+    "line_number": 915,
+    "status": "success"
+  },
+  {
+    "user_number": 56,
+    "nickname": "스콜스",
+    "line_number": 934,
+    "status": "success"
+  },
+  {
+    "user_number": 57,
+    "nickname": "jakunoba",
+    "line_number": 951,
+    "status": "success"
+  },
+  {
+    "user_number": 58,
+    "nickname": "감전주의",
+    "line_number": 968,
+    "status": "success"
+  },
+  {
+    "user_number": 59,
+    "nickname": "양웬리",
+    "line_number": 985,
+    "status": "success"
+  },
+  {
+    "user_number": 60,
+    "nickname": "우스타",
+    "line_number": 1002,
+    "status": "success"
+  },
+  {
+    "user_number": 61,
+    "nickname": "nekorean",
+    "line_number": 1019,
+    "status": "success"
+  },
+  {
+    "user_number": 62,
+    "nickname": "Chrollo Lucilfer",
+    "line_number": 1036,
+    "status": "success"
+  },
+  {
+    "user_number": 63,
+    "nickname": "흘레바람",
+    "line_number": 1053,
+    "status": "success"
+  },
+  {
+    "user_number": 64,
+    "nickname": "panidy",
+    "line_number": 1070,
+    "status": "success"
+  },
+  {
+    "user_number": 65,
+    "nickname": "다시마두장",
+    "line_number": 1087,
+    "status": "success"
+  },
+  {
+    "user_number": 66,
+    "nickname": "권나연",
+    "line_number": 1105,
+    "status": "success"
+  },
+  {
+    "user_number": 67,
+    "nickname": "HighlandPark",
+    "line_number": 1122,
+    "status": "success"
+  },
+  {
+    "user_number": 68,
+    "nickname": "Pygmalion",
+    "line_number": 1139,
+    "status": "success"
+  },
+  {
+    "user_number": 69,
+    "nickname": "문문문무",
+    "line_number": 1156,
+    "status": "success"
+  },
+  {
+    "user_number": 70,
+    "nickname": "하얀소파",
+    "line_number": 1173,
+    "status": "success"
+  },
+  {
+    "user_number": 71,
+    "nickname": "papaGom",
+    "line_number": 1190,
+    "status": "success"
+  },
+  {
+    "user_number": 72,
+    "nickname": "프란츠베켄바우어",
+    "line_number": 1207,
+    "status": "success"
+  },
+  {
+    "user_number": 73,
+    "nickname": "메가트롤",
+    "line_number": 1224,
+    "status": "success"
+  },
+  {
+    "user_number": 74,
+    "nickname": "서아아빠",
+    "line_number": 1241,
+    "status": "success"
+  },
+  {
+    "user_number": 75,
+    "nickname": "따닥",
+    "line_number": 1258,
+    "status": "success"
+  },
+  {
+    "user_number": 76,
+    "nickname": "221B",
+    "line_number": 1275,
+    "status": "success"
+  },
+  {
+    "user_number": 77,
+    "nickname": "SHYiiii",
+    "line_number": 1292,
+    "status": "success"
+  },
+  {
+    "user_number": 78,
+    "nickname": "흡혈",
+    "line_number": 1309,
+    "status": "success"
+  },
+  {
+    "user_number": 79,
+    "nickname": "마작에진심인남자",
+    "line_number": 1326,
+    "status": "success"
+  },
+  {
+    "user_number": 80,
+    "nickname": "도달자",
+    "line_number": 1343,
+    "status": "success"
+  },
+  {
+    "user_number": 81,
+    "nickname": "Nellys",
+    "line_number": 1360,
+    "status": "success"
+  },
+  {
+    "user_number": 82,
+    "nickname": "Z",
+    "line_number": 1377,
+    "status": "success"
+  },
+  {
+    "user_number": 83,
+    "nickname": "기다림...그리",
+    "line_number": 1394,
+    "status": "success"
+  },
+  {
+    "user_number": 84,
+    "nickname": "레반",
+    "line_number": 1411,
+    "status": "success"
+  },
+  {
+    "user_number": 85,
+    "nickname": "강동원",
+    "line_number": 1428,
+    "status": "success"
+  },
+  {
+    "user_number": 86,
+    "nickname": "Twice정연",
+    "line_number": 1445,
+    "status": "success"
+  },
+  {
+    "user_number": 87,
+    "nickname": "79",
+    "line_number": 1462,
+    "status": "success"
+  },
+  {
+    "user_number": 88,
+    "nickname": "YongSeok CHOI",
+    "line_number": 1479,
+    "status": "success"
+  },
+  {
+    "user_number": 89,
+    "nickname": "spatial",
+    "line_number": 1496,
+    "status": "success"
+  },
+  {
+    "user_number": 90,
+    "nickname": "십자포화",
+    "line_number": 1513,
+    "status": "success"
+  },
+  {
+    "user_number": 91,
+    "nickname": "cald",
+    "line_number": 1530,
+    "status": "success"
+  },
+  {
+    "user_number": 92,
+    "nickname": "순간",
+    "line_number": 1549,
+    "status": "success"
+  },
+  {
+    "user_number": 93,
+    "nickname": "업앤다운타운",
+    "line_number": 1566,
+    "status": "success"
+  },
+  {
+    "user_number": 94,
+    "nickname": "alleh",
+    "line_number": 1583,
+    "status": "success"
+  },
+  {
+    "user_number": 95,
+    "nickname": "호잉스",
+    "line_number": 1600,
+    "status": "success"
+  },
+  {
+    "user_number": 96,
+    "nickname": "erai",
+    "line_number": 1617,
+    "status": "success"
+  },
+  {
+    "user_number": 97,
+    "nickname": "InSomNia",
+    "line_number": 1636,
+    "status": "success"
+  },
+  {
+    "user_number": 98,
+    "nickname": "추대왕",
+    "line_number": 1653,
+    "status": "success"
+  },
+  {
+    "user_number": 99,
+    "nickname": "여름의끝에피는꽃",
+    "line_number": 1672,
+    "status": "success"
+  },
+  {
+    "user_number": 100,
+    "nickname": "아싸리리이",
+    "line_number": 1689,
+    "status": "success"
+  },
+  {
+    "user_number": 101,
+    "nickname": "거북",
+    "line_number": 1706,
+    "status": "success"
+  },
+  {
+    "user_number": 102,
+    "nickname": "술통",
+    "line_number": 1723,
+    "status": "success"
+  },
+  {
+    "user_number": 103,
+    "nickname": "Musiq",
+    "line_number": 1740,
+    "status": "success"
+  },
+  {
+    "user_number": 104,
+    "nickname": "MaGatzz",
+    "line_number": 1757,
+    "status": "success"
+  },
+  {
+    "user_number": 105,
+    "nickname": "히용",
+    "line_number": 1774,
+    "status": "success"
+  },
+  {
+    "user_number": 106,
+    "nickname": "오하영",
+    "line_number": 1791,
+    "status": "success"
+  },
+  {
+    "user_number": 107,
+    "nickname": "일반회원",
+    "line_number": 1808,
+    "status": "success"
+  },
+  {
+    "user_number": 108,
+    "nickname": "Klopp",
+    "line_number": 1825,
+    "status": "success"
+  },
+  {
+    "user_number": 109,
+    "nickname": "카케티르",
+    "line_number": 1842,
+    "status": "success"
+  },
+  {
+    "user_number": 110,
+    "nickname": "Jane",
+    "line_number": 1861,
+    "status": "success"
+  },
+  {
+    "user_number": 111,
+    "nickname": "열혈둥이",
+    "line_number": 1880,
+    "status": "success"
+  },
+  {
+    "user_number": 112,
+    "nickname": "와이",
+    "line_number": 1897,
+    "status": "success"
+  },
+  {
+    "user_number": 113,
+    "nickname": "이시카와미오",
+    "line_number": 1914,
+    "status": "success"
+  },
+  {
+    "user_number": 114,
+    "nickname": "부처",
+    "line_number": 1931,
+    "status": "success"
+  },
+  {
+    "user_number": 115,
+    "nickname": "마이스타일",
+    "line_number": 1950,
+    "status": "success"
+  },
+  {
+    "user_number": 116,
+    "nickname": "attraction",
+    "line_number": 1967,
+    "status": "success"
+  },
+  {
+    "user_number": 117,
+    "nickname": "우왕크",
+    "line_number": 1984,
+    "status": "success"
+  },
+  {
+    "user_number": 118,
+    "nickname": "대상팔",
+    "line_number": 2001,
+    "status": "success"
+  },
+  {
+    "user_number": 119,
+    "nickname": "사랑",
+    "line_number": 2018,
+    "status": "success"
+  },
+  {
+    "user_number": 120,
+    "nickname": "무지",
+    "line_number": 2035,
+    "status": "success"
+  },
+  {
+    "user_number": 121,
+    "nickname": "막스베르스타펜",
+    "line_number": 2052,
+    "status": "success"
+  },
+  {
+    "user_number": 122,
+    "nickname": "로즈엘",
+    "line_number": 2069,
+    "status": "success"
+  },
+  {
+    "user_number": 123,
+    "nickname": "Broccoli",
+    "line_number": 2086,
+    "status": "success"
+  },
+  {
+    "user_number": 124,
+    "nickname": "쪼아",
+    "line_number": 2103,
+    "status": "success"
+  },
+  {
+    "user_number": 125,
+    "nickname": "알콜부이",
+    "line_number": 2120,
+    "status": "success"
+  },
+  {
+    "user_number": 126,
+    "nickname": "호루라기장인",
+    "line_number": 2137,
+    "status": "success"
+  },
+  {
+    "user_number": 127,
+    "nickname": "BROOKS",
+    "line_number": 2154,
+    "status": "success"
+  },
+  {
+    "user_number": 128,
+    "nickname": "노암",
+    "line_number": 2171,
+    "status": "success"
+  },
+  {
+    "user_number": 129,
+    "nickname": "짜부리",
+    "line_number": 2188,
+    "status": "success"
+  },
+  {
+    "user_number": 130,
+    "nickname": "개가좋아요",
+    "line_number": 2205,
+    "status": "success"
+  },
+  {
+    "user_number": 131,
+    "nickname": "회비서",
+    "line_number": 2222,
+    "status": "success"
+  },
+  {
+    "user_number": 132,
+    "nickname": "Far Niente",
+    "line_number": 2239,
+    "status": "success"
+  },
+  {
+    "user_number": 133,
+    "nickname": "하만",
+    "line_number": 2256,
+    "status": "success"
+  },
+  {
+    "user_number": 134,
+    "nickname": "Liberalist",
+    "line_number": 2275,
+    "status": "success"
+  },
+  {
+    "user_number": 135,
+    "nickname": "팔라디노",
+    "line_number": 2292,
+    "status": "success"
+  },
+  {
+    "user_number": 136,
+    "nickname": "행복한나를위해",
+    "line_number": 2311,
+    "status": "success"
+  },
+  {
+    "user_number": 137,
+    "nickname": "바이에른뮌헨",
+    "line_number": 2328,
+    "status": "success"
+  },
+  {
+    "user_number": 138,
+    "nickname": "CrazY_BoY",
+    "line_number": 2345,
+    "status": "success"
+  },
+  {
+    "user_number": 139,
+    "nickname": "와우홍",
+    "line_number": 2362,
+    "status": "success"
+  },
+  {
+    "user_number": 140,
+    "nickname": "코라이돈",
+    "line_number": 2379,
+    "status": "success"
+  },
+  {
+    "user_number": 141,
+    "nickname": "Psyki",
+    "line_number": 2396,
+    "status": "success"
+  },
+  {
+    "user_number": 142,
+    "nickname": "10000s",
+    "line_number": 2413,
+    "status": "success"
+  },
+  {
+    "user_number": 143,
+    "nickname": "포코포코",
+    "line_number": 2430,
+    "status": "success"
+  },
+  {
+    "user_number": 144,
+    "nickname": "crema",
+    "line_number": 2447,
+    "status": "success"
+  },
+  {
+    "user_number": 145,
+    "nickname": "이미등록된닉네임",
+    "line_number": 2464,
+    "status": "success"
+  },
+  {
+    "user_number": 146,
+    "nickname": "22",
+    "line_number": 2481,
+    "status": "success"
+  },
+  {
+    "user_number": 147,
+    "nickname": "비상하는로그",
+    "line_number": 2498,
+    "status": "success"
+  },
+  {
+    "user_number": 148,
+    "nickname": "락샤사",
+    "line_number": 2515,
+    "status": "success"
+  },
+  {
+    "user_number": 149,
+    "nickname": "몽키매직",
+    "line_number": 2532,
+    "status": "success"
+  },
+  {
+    "user_number": 150,
+    "nickname": "그린티미스트",
+    "line_number": 2549,
+    "status": "success"
+  },
+  {
+    "user_number": 151,
+    "nickname": "칼리토",
+    "line_number": 2566,
+    "status": "success"
+  },
+  {
+    "user_number": 152,
+    "nickname": "아니",
+    "line_number": 2583,
+    "status": "success"
+  },
+  {
+    "user_number": 153,
+    "nickname": "그린님",
+    "line_number": 2600,
+    "status": "success"
+  },
+  {
+    "user_number": 154,
+    "nickname": "kama",
+    "line_number": 2617,
+    "status": "success"
+  },
+  {
+    "user_number": 155,
+    "nickname": "덱스터모건",
+    "line_number": 2634,
+    "status": "success"
+  },
+  {
+    "user_number": 156,
+    "nickname": "OcularImplants",
+    "line_number": 2651,
+    "status": "success"
+  },
+  {
+    "user_number": 157,
+    "nickname": "리버풀롯데SFG",
+    "line_number": 2668,
+    "status": "success"
+  },
+  {
+    "user_number": 158,
+    "nickname": "김치와라면",
+    "line_number": 2685,
+    "status": "success"
+  },
+  {
+    "user_number": 159,
+    "nickname": "Jurgen Klopp",
+    "line_number": 2702,
+    "status": "success"
+  },
+  {
+    "user_number": 160,
+    "nickname": "지구 최후의 밤",
+    "line_number": 2719,
+    "status": "success"
+  },
+  {
+    "user_number": 161,
+    "nickname": "now",
+    "line_number": 2736,
+    "status": "success"
+  },
+  {
+    "user_number": 162,
+    "nickname": "리니시아",
+    "line_number": 2754,
+    "status": "success"
+  },
+  {
+    "user_number": 163,
+    "nickname": "여기저기외기러기",
+    "line_number": 2771,
+    "status": "success"
+  },
+  {
+    "user_number": 164,
+    "nickname": "DownTeamisDown",
+    "line_number": 2788,
+    "status": "success"
+  },
+  {
+    "user_number": 165,
+    "nickname": "달랭이",
+    "line_number": 2805,
+    "status": "success"
+  },
+  {
+    "user_number": 166,
+    "nickname": "데몬헌터",
+    "line_number": 2822,
+    "status": "success"
+  },
+  {
+    "user_number": 167,
+    "nickname": "눈이내리면",
+    "line_number": 2839,
+    "status": "success"
+  },
+  {
+    "user_number": 168,
+    "nickname": "비맞은 비익조",
+    "line_number": 2856,
+    "status": "success"
+  },
+  {
+    "user_number": 169,
+    "nickname": "유유할때유",
+    "line_number": 2873,
+    "status": "success"
+  },
+  {
+    "user_number": 170,
+    "nickname": "숲",
+    "line_number": 2892,
+    "status": "success"
+  }
+]

@@ -1,0 +1,11 @@
+R1 M1 : T1
+R1 M2 : 
+GEN이 고른 팀 : 
+R2 M1 : 
+R2 M2 : 
+R1 LB : 
+R2 LB : 
+R3 UB : 
+R3 LB : 
+R4 LF : 
+Grand Final : 
