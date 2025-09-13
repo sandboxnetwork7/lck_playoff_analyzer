@@ -1,7 +1,7 @@
 R1 M1 : T1
 R1 M2 : KT
 GEN이 고른 팀 : KT
-R2 M1 : 
+R2 M1 : KT
 R2 M2 : 
 R1 LB : 
 R2 LB : 
