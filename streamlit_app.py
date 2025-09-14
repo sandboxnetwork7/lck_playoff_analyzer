@@ -181,6 +181,10 @@ def main():
         gen_choice = match_results.get('GEN이 고른 팀')
         r2_m1_winner = match_results.get('R2 M1')
         r2_m2_winner = match_results.get('R2 M2')
+        r1_lb_winner = match_results.get('R1 LB')
+        r3_ub_winner = match_results.get('R3 UB')
+        r2_lb_winner = match_results.get('R2 LB')
+        r3_lb_winner = match_results.get('R3 LB')
         
         # GEN 선택 정보
         if gen_choice:
@@ -241,11 +245,31 @@ def main():
         
         with col2:
             st.markdown("**패자조 2R**")
-            show_match("R2 LB", "미정", "미정", match_results.get('R2 LB'), schedule['R2 LB'])
+            # R2 LB: R2 M2 패자 vs R1 LB 승자
+            r2_m2_loser = None
+            if r2_m2_winner and r1_m1_winner and r1_m2_winner and gen_choice:
+                other_team = r1_m2_winner if gen_choice == r1_m1_winner else r1_m1_winner
+                r2_m2_loser = 'HLE' if r2_m2_winner == other_team else other_team
+            
+            team1_r2lb = r2_m2_loser if r2_m2_loser else "미정"
+            team2_r2lb = r1_lb_winner if r1_lb_winner else "미정"
+            
+            # 둘 중 하나라도 미정이면 승자는 None
+            winner_r2lb = r2_lb_winner if team1_r2lb != "미정" and team2_r2lb != "미정" else None
+            show_match("R2 LB", team1_r2lb, team2_r2lb, winner_r2lb, schedule['R2 LB'])
         
         with col3:
             st.markdown("**패자조 3R**")
-            show_match("R3 LB", "미정", "미정", match_results.get('R3 LB'), schedule['R3 LB'])
+            # R3 LB: R2 M1 패자 vs R2 LB 승자
+            r2_m1_loser = None
+            if r2_m1_winner and gen_choice:
+                r2_m1_loser = 'GEN' if r2_m1_winner == gen_choice else gen_choice
+            
+            team1_r3lb = r2_m1_loser if r2_m1_loser else "미정"
+            team2_r3lb = r2_lb_winner if r2_lb_winner else "미정"
+            
+            winner_r3lb = r3_lb_winner if team1_r3lb != "미정" and team2_r3lb != "미정" else None
+            show_match("R3 LB", team1_r3lb, team2_r3lb, winner_r3lb, schedule['R3 LB'])
         
         with col4:
             st.markdown("**패자조 결승**")
