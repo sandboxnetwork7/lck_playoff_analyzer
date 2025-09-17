@@ -3,9 +3,9 @@ R1 M2 : KT
 GEN이 고른 팀 : KT
 R2 M1 : KT
 R2 M2 : HLE
-R1 LB : 
+R1 LB : DK
 R2 LB : 
 R3 UB : 
 R3 LB : 
 R4 LF : 
-Grand Final : 햣
+Grand Final : 
