@@ -4,7 +4,7 @@ GEN이 고른 팀 : KT
 R2 M1 : KT
 R2 M2 : HLE
 R1 LB : DK
-R2 LB : 
+R2 LB : T1
 R3 UB : 
 R3 LB : 
 R4 LF : 
