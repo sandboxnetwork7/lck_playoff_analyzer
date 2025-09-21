@@ -273,7 +273,16 @@ def main():
         
         with col4:
             st.markdown("**패자조 결승**")
-            show_match("R4 LF", "미정", "미정", match_results.get('R4 LF'), schedule['R4 LF'])
+            # R4 LF: R3 UB 패자 vs R3 LB 승자
+            r3_ub_loser = None
+            if r3_ub_winner and r2_m1_winner and r2_m2_winner:
+                r3_ub_loser = r2_m1_winner if r3_ub_winner == r2_m2_winner else r2_m2_winner
+            
+            team1_r4lf = r3_ub_loser if r3_ub_loser else "미정"
+            team2_r4lf = r3_lb_winner if r3_lb_winner else "미정"
+            
+            winner_r4lf = match_results.get('R4 LF') if team1_r4lf != "미정" and team2_r4lf != "미정" else None
+            show_match("R4 LF", team1_r4lf, team2_r4lf, winner_r4lf, schedule['R4 LF'])
         
         st.markdown("---")
         
@@ -282,13 +291,13 @@ def main():
         col1, col2, col3 = st.columns([1, 2, 1])
         
         with col2:
-            r3_ub_winner = match_results.get('R3 UB')
             r4_lf_winner = match_results.get('R4 LF')
             
-            if r3_ub_winner and r4_lf_winner:
-                show_match("Grand Final", r3_ub_winner, r4_lf_winner, match_results.get('Grand Final'), schedule['Grand Final'])
-            else:
-                show_match("Grand Final", "미정", "미정", None, schedule['Grand Final'])
+            team1_gf = r3_ub_winner if r3_ub_winner else "미정"
+            team2_gf = r4_lf_winner if r4_lf_winner else "미정"
+            
+            winner_gf = match_results.get('Grand Final') if team1_gf != "미정" and team2_gf != "미정" else None
+            show_match("Grand Final", team1_gf, team2_gf, winner_gf, schedule['Grand Final'])
     
     with tab2:
         st.header("예측 통계")
