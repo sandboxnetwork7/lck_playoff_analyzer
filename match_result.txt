@@ -7,5 +7,5 @@ R1 LB : DK
 R2 LB : T1
 R3 UB : HLE
 R3 LB : GEN
-R4 LF : 
+R4 LF : GEN
 Grand Final : 
